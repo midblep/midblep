@@ -8,6 +8,10 @@
 
 💻 I enjoy coding beyond work, but am also into tons of other tech like building computers, playing games, managing networks/infrastructure and flying drones!
 
+## **Note**
+
+I've primarily used GitLab for the past years and recently started using GitHub as my main platform, so I'm still working on moving over repositories and flairing the place up!
+
 
 ## **My links**
 Personal Website: [bartindustries.com](https://bartindustries.com/)<br/>
