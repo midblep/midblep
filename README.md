@@ -1,16 +1,16 @@
 ## **Hello, I'm Pascal** (Mid or Midblep on the interwebs)
 
-🤝 I am a versatile full-stack software developer. I know my way around many languages and am always eager to learn new things. I work with a variety of frameworks like Laravel, NestJS and SvelteKit. My favorite languages are TypeScript, Python, PHP and Rust.
+🤝 I am a versatile full-stack software developer. I know my way around many languages and am always eager to learn new things. I have extensively worked with a variety of frameworks like Laravel, NestJS, SvelteKit and Blazor. My favorite languages are TypeScript / JavaScript, Python, PHP, C# and Rust.
 
-🎒 I am currently studying Software Engineering at the Saxion University of Applied Sciences and specialize in web related development.
+🎒 I am currently studying Software Engineering at the Saxion University of Applied Sciences and specialize in web related development. I will be graduating this year.
 
-💼 I run my own development studio called DubbelNull that specializes in creating websites and designs. Next to that I am also Lead Developer at Flame Software, a SaaS company trying to revolutionize online communications.
+💼 I run my own development studio called DubbelNull that creates programs and sites related to the web, including portfolios, APIs, apps, etc.
 
-💻 I enjoy coding beyond work, but am also into tons of other tech like building computers, playing games, managing networks/infrastructure and flying drones!
+💻 I enjoy coding beyond work, but am also into tons of other tech like building computers, playing games, managing networks/infrastructure, flying drones and 3D printing!
 
 ## **Note**
 
-I've primarily used GitLab for the past years and recently started using GitHub as my main platform, so I'm still working on moving over repositories and flairing the place up!
+My projects are spread over different platforms, such as GitLab, GitHub and my own self-hosted Git repositories. You can find them all through my personal website linked below.
 
 
 ## **My links**
@@ -18,13 +18,12 @@ Personal Website: [bartindustries.com](https://bartindustries.com/)<br/>
 Twitter: [@midblep](https://twitter.com/midblep/)<br/>
 Discord: [Mid#0001](https://discord.com/users/191525900880183296)
 
-Flame Software: [flamesoftware.net](https://flamesoftware.net/)<br/>
 DubbelNull: [dubbelnull.com](https://dubbelnull.com/)
 
 
 ## **My statistics**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midblep)](https://github.com/anuraghazra/github-readme-stats)
+[![Midblep's GitHub stats](https://github-readme-stats.vercel.app/api?username=midblep)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Midblep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midblep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
