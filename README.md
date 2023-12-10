@@ -8,12 +8,13 @@
 
 💻 I enjoy coding beyond work, but am also into tons of other tech like building computers, playing games, managing networks/infrastructure, flying drones and 3D printing!
 
+
 ## **Note**
 
 My projects are spread over different platforms, such as GitLab, GitHub and my own self-hosted Git repositories. You can find them all through my personal website linked below.
 
 
-## **My links**
+## **Links**
 Personal Website: [bartindustries.com](https://bartindustries.com/)<br/>
 Twitter: [@midblep](https://twitter.com/midblep/)<br/>
 Discord: [Mid#0001](https://discord.com/users/191525900880183296)
@@ -21,7 +22,14 @@ Discord: [Mid#0001](https://discord.com/users/191525900880183296)
 DubbelNull: [dubbelnull.com](https://dubbelnull.com/)
 
 
-## **My statistics**
+## **Details**
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+
+## **Statistics**
 
 [![Midblep's GitHub stats](https://github-readme-stats.vercel.app/api?username=midblep)](https://github.com/anuraghazra/github-readme-stats)
 
