@@ -12,14 +12,10 @@
 
 My projects are spread over different platforms, such as GitLab, GitHub and my own self-hosted Git repositories. You can find them all through my personal website linked below.
 
-
-## **Github stats**
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-
-
-## **Language stats**
-
-[![Midblep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<picture>
+  <img src="/metrics.plugin.wakatime.svg " alt="Metrics">
+</picture>
