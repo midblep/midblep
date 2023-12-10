@@ -17,5 +17,8 @@ My projects are spread over different platforms, such as GitLab, GitHub and my o
 </picture>
 <br/>
 <picture>
-  <img src="/metrics.plugin.wakatime.svg " alt="Metrics">
+  <img src="/metrics.plugin.wakatime.svg" alt="Metrics">
+</picture>
+<picture>
+  <img src="/metrics.plugin.steam.full.svg" alt="Metrics">
 </picture>
