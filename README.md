@@ -4,24 +4,16 @@
 
 🎒 I am currently studying Software Engineering at the Saxion University of Applied Sciences and specialize in web related development. I will be graduating in a few months.
 
-💼 I run my own development studio called DubbelNull that creates programs and sites related to the web, including portfolios, APIs, apps, etc.
+💼 I run my own development studio [DubbelNull](https://dubbelnull.com/) that creates programs and sites related to the web, including portfolios, APIs, apps, etc.
 
 💻 I enjoy coding beyond work, but am also into tons of other tech like building computers, playing games, managing networks/infrastructure, flying drones and 3D printing!
 
-
-## **Note**
+#### **Note**
 
 My projects are spread over different platforms, such as GitLab, GitHub and my own self-hosted Git repositories. You can find them all through my personal website linked below.
 
 
-## **Links**
-Personal Website: [bartindustries.com](https://bartindustries.com/)<br/>
-Twitter: [@midblep](https://twitter.com/midblep/)<br/>
-Discord: [Mid#0001](https://discord.com/users/191525900880183296)
-DubbelNull: [dubbelnull.com](https://dubbelnull.com/)
-
-
-## **Details**
+## **Github stats**
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
