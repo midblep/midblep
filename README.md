@@ -2,7 +2,7 @@
 
 🤝 I am a versatile full-stack software developer. I know my way around many languages and am always eager to learn new things. I have extensively worked with a variety of frameworks like Laravel, NestJS, SvelteKit and Blazor. My favorite languages are TypeScript / JavaScript, Python, PHP, C# and Rust.
 
-🎒 I am currently studying Software Engineering at the Saxion University of Applied Sciences and specialize in web related development. I will be graduating this year.
+🎒 I am currently studying Software Engineering at the Saxion University of Applied Sciences and specialize in web related development. I will be graduating in a few months.
 
 💼 I run my own development studio called DubbelNull that creates programs and sites related to the web, including portfolios, APIs, apps, etc.
 
@@ -18,7 +18,6 @@ My projects are spread over different platforms, such as GitLab, GitHub and my o
 Personal Website: [bartindustries.com](https://bartindustries.com/)<br/>
 Twitter: [@midblep](https://twitter.com/midblep/)<br/>
 Discord: [Mid#0001](https://discord.com/users/191525900880183296)
-
 DubbelNull: [dubbelnull.com](https://dubbelnull.com/)
 
 
@@ -29,9 +28,7 @@ DubbelNull: [dubbelnull.com](https://dubbelnull.com/)
 </picture>
 
 
-## **Statistics**
-
-[![Midblep's GitHub stats](https://github-readme-stats.vercel.app/api?username=midblep)](https://github.com/anuraghazra/github-readme-stats)
+## **Language stats**
 
 [![Midblep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midblep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
