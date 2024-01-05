@@ -96,7 +96,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Blazor</span>
-                                <div class="bar" style="width: 13.824000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
