@@ -102,15 +102,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAAcBAQAAAAAAAAAAAAAAAAECAwYHCAUE/8QALxAAAgEDAwIEBQQDAQAAAAAAAQIDAAQFBhESITEHIkFRCBMyQmEXcYGhFCRSkf/EABoBAAIDAQEAAAAAAAAAAAAAAAEEAgMFAAb/xAAeEQADAAIDAQEBAAAAAAAAAAAAAQIDEQQSISIxMv/aAAwDAQACEQMRAD8AzpQoUK9BI/oUCR1j/mgdt+ZG5/FECWbiOg9aet4pbicQ2iGRz7Dei2kHehscSexBpRDD6/pp+9sbqzkAvo2j39xtTPLzD1WjNq/AzQQpQpPrShU3PUkzzijoh3o6r/CpUO29vJdXMVrbI008rcU4ep9q2J4Q+HFhpXBQyXtvFLk51DytIoYBT1AHsarv4cfD0uU1DlIQqI28COPX3rRN5JJFbTywJ8xkXeOMdyfas7kZ9FGTJoj+r9GYnVGGnx81rbo0qkJMiAHf8GsWaqwVxpzO3WMv4mjMTH5bHtx36GtpaH1VBqyxlkC/49zbytG0J7qQdt6hvj1oMaowcmUs4wclZLzZFHWUegocfM0/QY72ZJ/v80oUTKyOyOpV0PFlPofajHetZV3Q5Pp5d1QESbn22qf+EGhZ9ZalhWVSMfbkSSv6Ee1RDA4i7zmXgxtinzLidgoFbf8ADjSFto/TUNlAqm44hpH3G7Me4pLkZXPyLUd63ghxuNWKMJElugU7DYBR2NHY3ttewJc2EqywsxTkDvsw71TPxDeIIw2PfA42Xjf3K7TsD1RD2NQv4d/EFsbk2wWVnL210eMLseznuaSeCv6KujZZutbKbRWqINWY5CcfMwTJRJ0VYx9wHod/WrNx93BkLSO6t2WSOeMMpHUbEdqK/sYMpjpba6VZIp14shI8w9KrbRl5Po3Ur6UyT87GZy9pKT9zfbv+BVbVU9oj6VV8Qfh+2Eyr5vHR/wCjc9G4jojdyTVNqRx2UeYjrv6D3rfuoMNaZ7D3eOv0VoZkKjcj+qxJr7St5pDUl1jbxdhvzif/AKU9hWjxs7fyN4qZwcRlLrE3AmsZQko6hx3H813/ANQ9UcgTk2A/c1FCS43PEfxQAXj181M3iVvZzk9ORvrjI3bXF5K80rd3c7k0zG7wTJLAzKyncMp2IP4ps7/SelK32HEVPctdQzJKv1C1KkYiTISbKoAPI7158lq3MZCa1luLxjLE24fc7g/vUeBIPIbe1HyPUMBUOkT4d0TJaPEDU+wC5RiF6Dqa5Oa1BkM2wbJz/OkH3t1P/tcnynsCtLHl+kgn9qmsU4/osSSP/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Outward</div>
+                                <div class="name">THE FINALS</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        RPG
+                                        Action, Free to Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        27 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 15 Apr 2024
+                                        Last played on 16 Apr 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 72 achievements unlocked
+                                            21 / 50 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAwT/xAAsEAACAQMEAAQEBwAAAAAAAAABAgMEBREABhIhIjFBURMVYYEUMqGxwdHh/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgABAwQG/8QAHxEAAQQDAQADAAAAAAAAAAAAAQACAxEEBSESMUFR/9oADAMBAAIRAxEAPwDCaiuuku4a6JK6qXFTIoVZWAHiPQGmlLYrkI1atuFWrleZT4rcgMevfWoFsp4xve8yTKWhgrJWYDzwHOtN27D83apuF0cGaobKoR4QCf6wPtqrQ4AFp9bjslBfJ8BEK2xXB4pGoLnVuVUtxMxDHrvAz3obba27Hc9uo5LhVuklVHGUeZiGBYDBGfLT7ddLdLXOZ6SZuCJyGPPGf0Oh2FfethqVQoJKyIlfUHmMjSAHk2EG0hjjcDFdKpZInrNw39xjL1rmQ+ylyT+2lVZfWtCLT07ByF4qXAIA9j9e9Z/DNeLZuG61FLbqswVE0mGWEkcS2cg/zqpLe52gEa2OrRuOHYxks7ejHrzz3ovAIu+qLAzYoWeZOd/CqFVdJbk3B5eaydZXHWRj7f5qLLC9HuLb6TkM/wCMicNj8y8hg41y+Y10LJws9YDk+cJ8R+vX115pZL5ct10NfUWyqj+HUxucQkBcEe+ma2gbR7HYRZEYbHZNj6oL/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABgcEAQIDBQj/xAAsEAABAwMBBwMEAwAAAAAAAAABAgMFBAYRAAcSITFhcYETUZEjQULRCDJj/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQBBQb/xAAeEQACAgIDAQEAAAAAAAAAAAABAgARAyEEEhNBUf/aAAwDAQACEQMRAD8AWsNBuSLqiVhqnb4rcVySP3po2BbEDIlKGYx2vJOA468Gkq7YBJ+MddVo7IkJC0Y40SU+i+px18E8VBA5ecgeToYvavuWyoreh1O0lUXAl15kAqbRg8RzxxwM/bWotUVhjOxK0szsBHFMbHYOQoyWqR2LfIylxDwea88AR30jrusWUtqvcp61klA/q4nilQ9xroT+P1yTU/Y4qLiW68tDu4zUOpwp1O6Mk8s4ORn9axbWadurgJAbn1I9xtbZ/wAnBy8KCtK8TlOc3lm2P2MuOotZprfuqliLDpl1CXFLpnFtLSkfgsYJ8EA9s6S9/wBxzszfjbsW1IU8OwlIU8y0VJUSnJUTgggHA8aNY54MocbdR6lM6MLRnGeo9j11axCtN09U3GSbaG3+BbqBulI9uRHxjto1RWPZTRJsxayDsXImzzaVcVFfztFJGQrYB9HpodqW90NFKAQoHACRkKBHUe2mJd8umrtmSrOITJuNopwfyZbGAvspRUR0xoBat2mbdDkrINPIGPosDO9j7Hhj5z21KnJB2RdSVZSygbqEZ5DU+KIwb7DDFp//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Motherlode</div>
-                                                <div class="unlocked">15 Apr 2024</div>
+                                                <div>Mass Medium</div>
+                                                <div class="unlocked">16 Apr 2024</div>
                                             </div>
-                                            <div class="description">Find a gem while mining ore.</div>
+                                            <div class="description">Play 10 rounds with a Medium Build</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgUHAAIECP/EACoQAAEEAQQBAwIHAAAAAAAAAAECAwQFEQAGEiExEyJRMmEHFBVDgZKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHREAAQQCAwAAAAAAAAAAAAAAAQACESESoTFBUf/aAAwDAQACEQMRAD8A87391atX1ghFhKbCZCwEpdUAn3Hod9DSaBXTiyh6z3BaJbVglTHJQHXznUR6UE/iXPas2VPxvzj49MHAJBVjP2zq06iOmwbLMBaGjj3LJCAlPxhPj+dZXQGiAtMkuNorProykD9L3LuFayP3kEA/Pg6Px1XEPdNRBeuHpTcl9scfWVjBWBhQOrduaNVZDQpU9qY4oAKDb6uI9vuyVY8ar65hxBvLbs2IoqUma0y6lPYGFDjj7+f80Dg0mbFrmcgwIj15ue7Q64ldi9HYZTgBxSifcFA5HHCs9fGlm27dtuNMuqj1Iz0VQU+ynLgUlWMFOPA6JJI0MUp9TlzX2VNMdrJMxT7bjDJ5BfL6+XwE5x13rWVKkVdIqs29Wz8PK5PPOoXz6OEjrAwRn2/fRiT3eoSXDytylG7byffyFPynVSVq4k5T2AkYBP8AY96OhxTF1RtlKgVWDKl5HjB1Aql7nQjgiFIZ5ZGUxyCfnzrKOLuBq4hqei2BaEtt5zk2fqBHZzq5jEhQbOQK/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwQGAAECBf/EACwQAAIBAwMCBAUFAAAAAAAAAAECAwQFEQAGIRJxQVFhgQcTFDGRIiMyQ9H/xAAZAQABBQAAAAAAAAAAAAAAAAAEAQIDBQb/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADIWEEERIx/9oADAMBAAIRAxEAPwA1s1jkuMrEuIqePl5G+yj/AHSjsDbFhuJVIbZLcCTj5kswiVu2ASfxj11uj2RX3DaNuNGFEE7STT5PJVBnHbkD3OqhBcL3tu01F3prutvq7kifQJUOBHCpOR0546ivOTwNaf0qArWciVxZmOo1Xn4O2O4UZMVJLa5yMrIkomi9+AR30Hbu2LdNtV8lPWwkoP4yLyrDzGn/AGLuiuq/hrSXqqu1PcLlbFb69aeQOkiA5ZWxx1hOQw8R4gnWfFeCKt2/X9K5ageN4mHjFKucezA+2h+JynNoruyDjYhDAqO1njbf3VSWnYdM9Sju1NI8Tqo/rdcE+xAPbOiC/wAFPcrZFHW0YqqW1ERwySZw0BOFIwR+sDpUr6ZGRq2W6YQpJHKnzKaUYdM4z6jyPrrmCyxRwVUdsucaRz8GOcdJUeX2I/GO2n1qhJYfTBSWHWpD2vuekpbO9ise3VoI7qwpq+qjlcpDEAuWw55bDOvGB4+mkXd12Sp2xcapR0x3KSOOmXzhiGA3YksR6Y1QY9u0ySiW63CKZFx+zAM9WPA8Y/Oe2pV8uEtxlUtlYUHSiZ+w0ppRGDCSBmaf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Cordon Bleu</div>
-                                                <div class="unlocked">15 Apr 2024</div>
+                                                <div>Attending Physician</div>
+                                                <div class="unlocked">10 Apr 2024</div>
                                             </div>
-                                            <div class="description">Craft a cooking recipe with 4 ingredients.</div>
+                                            <div class="description">Revive teammates 50 times</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+7 others...</div>
+                                            <div class="description ellipsis">+19 others...</div>
                                         </div>
                                     </div>
                                 </div>
