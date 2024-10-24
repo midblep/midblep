@@ -102,15 +102,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwECBAUGAwAI/8QALxAAAQMDAwIFAwMFAAAAAAAAAQIDBAAFEQYSITFBEyIyUWEHFFIVJIE0QnGh4f/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAQQFBgD/xAAhEQACAgIDAAMBAQAAAAAAAAABAgADBBESITEyQVFhFP/aAAwDAQACEQMRAD8A+fbhNdnyPFdHmxjiuOw7uoHFInhXtU+2wX58xqJDbLz7qsACoJAGzJAJOhIISrGUkFf40obJXhKT/wBrUak0ddLHIYbeYU94oG0tjHPtV3o7S8y2zkzrzEUwhGFJbdGd9V3y6gnNW3+f2WExLWfgRr9g8U0tPGCE9sik2H+RzRJ+p7abw3GTbIQS4hWVeEkDihxCjSlyyx4S1PjjZjmpx7xdWHPUjIoNNhT3+xqk5AJ9VPjSHIctDzYyoU90eG4W3RhYOMHtXJfB4PmqxK8RABWAe/Q1caaemM3uKLd/WleGuO9RdO243e9Q7cle0vr2g0XrLotjTd6bU6oOP8YOfT81TysquoFG+RHQlzFxXtPMfEemXzBeTFTJu5D1xIxs7J+cVWTrpGC/3ckcclKj/oVE1LclRI772TuGdpNBW53SRLkuOOOK3E9jwax8bEOQfwCa+RlLQO+yYcW34MgFUNxBfHaoi5Yhy1GaxHQlwYLgbAP8Ghnpy5vRJMZoqO0qyVHt/mildY4l2pZfxuCNwr1+OcdgrHo/cOjIW9eSjsQQawnMT7q6uG0W0A7c+/zVechKN3UjANWN8s0lK1SGWFqjZ5UKrA6FnCjggYANdBUV4gKdznrgwsPIakmDJciTW5LKtj6DlB9jW80ZeJ91ujy50vKkJBSCetD5B91JVnuO1afRCI6Lsl+S94YZ8yRn1UrKRWrLEd66h4zstgUeb7m9vcNdxtb7X9+CaC8+E7GfW24hQUknBoxOXuLbJ5jSJCFeL5h8A1M/T7Xc1BWW1pPJIrHoyWxtlh0Zs34y5I4g9iD76e6bk6kurSCkphtYVId6BKfeifqWTGjW+U4g5Q02GkDPq28ZruqVCttv+3L7MaMn1lA2lQ9iRWL1U7Jv8B1duTshsjIP51Ft5zLF2NLCpx/8aMd7aUMvWEddkEFuMoLCiST81iixh7d0BOeaZwmVhxJBzg1KWOnPSt2mlKgQn3MK697jt55A83apLLim/MhXNcZMd6G8EvIIzTN5B4B5pvsSDrydXElwlxalqWe5Oa1WlFwERlG4S3G+PzIrIb8c4PFKXFHynhPWlW1CxePkdTca25ex16lvPzXksvuKj5IGVE8VLiXKY1bftUOKDZ681BCkjkJpSvJB6AdqIVroDXkE2sWJ3FDSd+9fJpqsbq8V5TmlaadkvpbaTyaOLn//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABQcAAwYBAgQI/8QAMxAAAQIEAwUGBQUBAAAAAAAAAQIDAAQFEQYTIRIWMVGRBxUzQVNhFyJSVXEUMkJikoH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAwQFAQb/xAAtEQABAwIDBgYCAwAAAAAAAAABAAIDBBEFE2ESFRYhQVEUIjEyQlJTkQZxwf/aAAwDAQACEQMRAD8A3nZ5jBpTmU8pKQTDPFckANHk6jnHyvhMqzQbkG/ON8lxdtHFXtzjwu9JMOOSBcL2W7Y68ZpNinT35IesnrHPfkh6yesJXMc9RXWJmL9RXWDiaX6BHD0f2KdXfsjbxU9Ygr0la2amErmOHg4rrEzl3tmHrBxNL9Ajh6P7J1d+yJVq8nrHmq+JZWXlDlrSTCezHLXzFdY7Tq1mXAUpR/7A7+RzOaQG2KBgETXAl1wl9hO+ckWOyDeD2Mq6KFRy+i2cv5WQfNUAsJ+OLEX5QVxdhdOJEMJW9sIbVcDkYmnEPjWmf2j1VEJl8I4Qe7osIzWq9RH5aq1HaMpMqsUnz/EN2VfRNSzT7ahsuICgOV4D1/DzVWorUgtSUqZQA2s8LgWvHqw/TBSKY3KF0u7Ou0TxhVfUwVUTZGgNeDaw6jom0VPPTSFjiSwi9z36qrFNXFFo782FJDwT8gP8jCoSuvMSyMRpddIU4bNknZH5ENXE1Al8QyiWZrbAbO0kpVbX3i2aosvM0BVLtZhSAjTS3vDKCugpIgNm7nHzXHx7JdbRzVUhINgB5bH5aqzD9RRV6RLzbWpI+a31ecE5zwAeA94BUmmSeGKO4hC1BhsbSipXCL6bXpOty6zJLC0o0NogkiDnPfCDsAq6OUgMZKRtkLH4fm5eTs7NupaBPFUa0Yjo/DvBjhzjDSdHarbaWpkqSAfI2gmOzWmXvmPaj6zGtVR0bn3neQewCy6aSray0DARqVpt5KN9xY6xN5KL9xY6xmvhrTfUc/1E+GtN9Rz/AFEuThn5HfoKjOxH8bf2tA9iuiMpJNRZ6wHqXaHSZRoqlyZk8kGKW+zWjlQLoeUB/eDVPwhRpEDJldoD69Y7bC4+d3O05BF8Sk5Wa3X1WGnqvXcZK/SyUsuXkj+4qHl7wwMO0FnD9DblmrZitVK5kwVZZaZRstNIQnhZItF034OvLrCqnEM2PJiaGMHOw6/2Uynocp+dI7af3P8AiwGFNHtOcbxINhCRkq1Myi7oMFBjGf4XjTrsHnnk2mkLOo8WhhZsuTbiQpN8Z/nE3xn+cRbgqdFXvun1TbiQpN8Z/nE3xn+cG4KnRG+6fVNvha0d5vwATCh3xnuAMEJDGb7qw3MHSA4JUsFyujGKd5AX/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Factorio</div>
+                                <div class="name">Zeepkist</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Simulation, Strategy
+                                        Action, Indie, Racing, Sports, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        419 hours played
+                                        22 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 Oct 2024
+                                        Last played on 23 Oct 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            33 / 88 achievements unlocked
+                                            13 / 54 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBAwQF/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDBAURIQAGEhMxBxQiFUFxQlFSgbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAIxEAAgECBgIDAAAAAAAAAAAAAQIDABEEEyFBgcEUMVGhsf/aAAwDAQACEQMRAD8AR2y6DCRTRWqo62uSp0Ip0BxsqTIUFfJTmR8PKceVY+2jregoVG3IxLrtHahofitlpCI4COxDYbVxAxYm5IPgkHVm2JVB2zEoT65nu1xYZlvQ+1DrSHuZNwo2OU3It45f3of9R/UqHvShfT1U+QXWl9zLvwHWv9RwL2IwR+P21fxY5sOWL2517qXkyQzhVjuNzt9kVvRtSk7hpjEimwm22XGeaSq7KwhpVgkFWFKVcnFyQPOldXaJIpTh7EktcuBXawCsnjnyQNNOJIjxvT6iyEzVqkONKU7HaPxHEqSOZ8hXxRaxxn8a40Xr3NTKpwC31cSEKDSVucgAQBewBNrE4xfWKhmgcljdOe62GSKdNNH46qZJnS6O3XKM52SfbFt5twNuFSTg3SBYH43Ate2qfTbdZTuGntVN8RojTvat1thu4P2xxsRysSLZ0NbN3XJ248tCUh6G5lTJNk8jYcjYXNhfGjYHZNZkLmh32bp7Fq4ngSlJF1FORnBA8nQ6ZLXZL/BApo5M0AB7bEE/lMLftUorkByVxpD8lV1lZhqSVX/kEr43/wB0BMw00DZE+dOjoaemFThZUwVIQFCyEqTfF/zi+tztR2ft89iHfeSmlFKO5fYEKCeQsBjOByscnS23tuuRuaaFqT1xkEltBtyFwLgkeRcY0weXFWBFlodYcLcqbt6r/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYEBf/EAC8QAAIBAwIFAgILAAAAAAAAAAECAwQFEQAxBhITIVEHQSJSFBUyQmFxcpGhscH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAgMFBv/EACgRAAEEAQMCBQUAAAAAAAAAAAECBBEhAwAFEkFhBhMVUYExcbHB0f/aAAwDAQACEQMRAD8AtZC1HQ0qww0zSyoZpOrEHyCfhX8BjxrK1up6+ZDRzQwNJvTysQyN7gfMPGNb79cvq62VNbNDFNSwx9oyuG2wuG33xowt3Dtw4nrZnu1RUwOI+qrHsgzsEXxrfd7slgnkowqybqNAY7Wt9JTSR+dUzxgTGM9mGxI38Ea0CGJ4IxHGUkQssmTkk9iDo0rZrrwpWxRzkz07YlAYk9RD8p9j/ul22JTV1JBXUZ54aiMOreRj+9QZvHL1x5ilwEKkJ7FJBBgCbIIJ9hU2bXrfAzxDGEyoiCe4IiDJ6C/v7UOxx5apKnhG5RwIS6xdQKB3PKQxH7A6l+A6lBYqSnlq4ZqhYy3IrgsiZ7A/kMaamo8/d0R8R+l1xt99F34P6DAsSaOR+ny53CtsVPg4I8657fmPqeHiDBFiuomPi9P8P7liacsWagbnUr6u0qxWK2Sk/AZCIeYfFylcnv7jbfVf6VW+ZOALP9IXDNGzr+hnYr/BGuZafTDiC/3Gll4ydILZT5xSJP1Hfv8AZyMhQfc527DTHDbkhiSKKNUjRQqqowFA7AAeNK2vGpsJUomABf1/Xx20XeXWPOrhjg3NCB1/t6//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Research with chemicals</div>
-                                                <div class="unlocked">21 Oct 2024</div>
+                                                <div>Author Medal x1</div>
+                                                <div class="unlocked">23 Oct 2024</div>
                                             </div>
-                                            <div class="description">Research a technology using chemical science packs.</div>
+                                            <div class="description">You have 1 author medal!</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUE/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDEQQFIQAGEhMxBxQiFUFxI1FSgbH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAlEQACAgECBAcAAAAAAAAAAAABAgMRAARREhMxgRQhMkFxobH/2gAMAwEAAhEDEQA/AEfsqw0SLaL1dHWl1CnQi3UDjZUmoUFfJS8j4eU48qx9tHO9E2KzbkYq77Z2qND9K2WkN04COxDYbVxSMQckg+CQdWbaqbHtqisT5rvdLpaQ1b1H2odZQ9zJkKMHKZIjxy/vQ76h+pNLvOxfT3aF9bza+5l2EjrV9zgTBGCPx+2sErtIwSjW4xfiJIZwqx2N/b7IzSRtS07htbFTbaJttlxnkkmWVhDSoCQVYUpUk4kkDzpW32yVFqcPYklrlwK4gBWTxz5IGmvRP09N6e2WpTWuKfcaUp2maPxHEqSORIkK+KIg41hU3Xua23TgFvqghCg0lbnIAEATABMQTjE6RDJNE5L+jv8AGdd0inQcPk/bJVJrquzt3yzudlT7YtvNuBtwqScGUgQD8ZAiYjVPpruwjcVvZubyaekad7VutsIkH7Y4wRygkRnQzs3ddTtx5aEpD1G5lTJMJ5GByMCTAnGjcHZN5qF1od9m6exauJ4EpSRKinIE4IHk6N4+UTxJexAwo5OaAA9bgn8xi78ullXbnKmLS/UK5LKzRqSVT/IJXE/7pfNUabDsi4V9dToaerCpwsqYKkIChCEqTOJ/OJ13vXLaFg/UQ77yqaUUo7l9gQoJ5D4jGcDlBydLXe266jc1aFqT10yCS2gxyEgSCR5EjGqjMuooEUvW8kiw6Wyptumf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwcF/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAURIQAGEhMxQRQiI1FhcQdCUoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUG/8QAJhEAAQMEAQMEAwAAAAAAAAAAAQIDEQAEITEFEyJhBhIUQTJRgf/aAAwDAQACEQMRAD8AengyxHZkSYyZ0yUnrKLqyEpSewx50NLYYhxo9apy1R1E29MrN7Ehab+RjR0hxuJBUJrKnWI6CpC21WUEjNvv9tLU7edFmx4bQZksNsKV7Ajlg9je+T9dXL7kRaNnPdBwdHx4/U/VG43h7nkVe5psqSCASBqhq2+wmprMRtXpXbLbJSRfl4A/N9TZQy6yOmn5MFRKs/5b66DTU6fW6xHjNvSw8RwZPTCbJSCe98YGmOJR2o6ypHMk/wAlX0exfv7taHup2pIkTjQn8dxoAnec6pvJ2tpx6DbuNFLhB2DOzGz97JA8QN1dUXXTSHglBS1Ib6bSlDihZX7U8Li6gb+BYDNxrN07cqKlwG22kLVPluwo3FwfI62SFAX7DGCbA6Zq9tibVdyR4216hTdyVRLS3qjPjuNsLCiuwKwDbAwCM4yNS3jRN37YpEqTU2kyI01hmA67DJcWwlA4t8bAFB8cgM4v41nbxJfUOpJj+1qOCvF8eyfiONgqyQqRBGoOAa4uxaU+jeVPdkFlpkSJUNSluABLrTZK0n8X/vxrTaTUYVSp86XH6hRCWUPJSjmoW8gJvcazSVQ9z1WlSKvPo81iHHjMtkuRTycQ3fiQ2PcSLklWL+Toj9H9zUCNVJkKp1d2LGl/G2zKpzKmXLgAcl+4pz+047Z0ywuHLZHTQMbzUv1ElN+4Ll9xJc1CJgAec1//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Research with logistics</div>
-                                                <div class="unlocked">21 Oct 2024</div>
+                                                <div>Online Winner x25</div>
+                                                <div class="unlocked">4 Oct 2022</div>
                                             </div>
-                                            <div class="description">Research a technology using logistic science packs.</div>
+                                            <div class="description">You won 25 online matches!!</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+31 others...</div>
+                                            <div class="description ellipsis">+11 others...</div>
                                         </div>
                                     </div>
                                 </div>
