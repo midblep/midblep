@@ -102,15 +102,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAABgcEBQACAwgB/8QAKhAAAQMDAwMEAgMBAAAAAAAAAQIDBAAFEQYSIQcxQRMiMlEUYTNCcZH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAgQDAQX/xAAnEQACAgAEBQQDAAAAAAAAAAABAgADBBESIQUxQVFxExQiYTKh8P/aAAwDAQACEQMRAD8A8zXi5vXKV6j2BgeBUDcT5FY58q+fX1RCdAo+O54o70hoGVc0NyZyvSjKPAPBNVGjrY0+6ZsrBZb5Cfs0wG9UJTtQpxKEJ4SgcYqS+xs9Cc57OB4YlyerecgZfyemECXbx6K1+oBhJ3cZpL6tsMzTt2ciTUFOOUkj5Cn9pnULbiNqXgpB7j6oN66yGLjboUhO1UhtZBUB3GKlossqtCNuG/Ui4hw/2LK6NqRtvsGJXcR2qVbprsGWh9rG4HyKieaxPyFerI5sr5VvGaU+8htPJUcCtFck4FX2kIDki4tvYylBzXQrNso3jLp1DWchCdxlqBb2I6CAQNxx9mrO32mFFZTMuxytz4Mg4UaiwGhLu63nE5Yj+5R8H9VztLjt41C9IXnY1wlJ7YH6pX1UOMNUcm5u3XwO0qvxHum1n8Bso8dTHh0z6bo1CROlhUeHj2tg4UavOo3TGHKsL8BbRygFTDyeOf391E6f9Qm7YymK+naB7QKMZ+q0XBo5OUn40pA7f3mTsxbbp2nhTUNnkWS4uxJKSNqiAfuq1OeP1Tz612P8papcdAKhzkCkYMpXhXg80wMQzZXCsZBFNzSdkWrT6HISdyl9yKUatu7jtRXpvW06yR1Ms+5HimF92H+dABb7mdlS2/FjD+7QmLLatj6w0hzO9RNAgvMaNch+Eo7T/YHg1S36/Tr3KL010keEjgf8qJChOSQpbSThHJNR4PDWI5ttbUx3Mr155Kg2Ea1uv7Dvpqk4yk/yJ4A/2iFjU85pzEOfGUyBwSjOKTkB97BQoZT24q2jrWVjYogHjFVkAyZmyJMbi7g5dG1G4y4ym8dkpxSC1MGBfZAiYLe7x90YTpq4ducWSoKCeBml6tZceU4fko5oyy5REYtuZovIVg18z2HipdwgyIL/AKchBCsVF2kdwcUTSZnOcU1Oj7MG5KVBf2eqrjBpV4J8c12hyH4jyXYzq23Ae6Dg0wYryhmek9O33pJELIl2pQQoDJbJzk0Fo0wiO+sTGlJKPI4FUWnes2obWymPKKZDCeMbfdj/AGrmX1dhXCOsSLetK1DuCKAAZNaH6bwW1MyhTTqWjlAz3pfYAdIzwDRLqHUQnBSYrZbQqqCJFelSUtMpK1q+q4ZpUpC7z//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAABQYEAAECAwcI/8QALxAAAQMDAwIEBQQDAAAAAAAAAQIDBAAFEQYSIRMxBzJBURQiYXGBCBVCoSNSov/EABoBAAIDAQEAAAAAAAAAAAAAAAIFAwQGAAH/xAAnEQACAgEDAgUFAAAAAAAAAAABAgADEQQhMQUSE0FxgZEVMlGh8P/aAAwDAQACEQMRAD8A8z3i5v3GTvewMD0FQEqJ4yMVZfm5q2Owrp0PtabluoQpK0kEZHFZHTU0rI3J3fapkDU/wUBLDkVxSgPNUlrV4KcphOEDuaps2oB2E0FdPSyoLOQfPmDBpiYFfK4jn6VirTE4EAKSfxTFbNQquU1qO3EcShR5VTCGTu2pBAHqahfUXIcMIx0/SNBqV7qiSPecxutqftjKFPKGVnGMVFt01yDMQ8yQSk55FE9X3EzbkpCFZbb4/NAk8K+tXqixQFuZmNalVdzJT9o2ll+aimlkBzUUBC0hSS6AQRkGha/NRrRSd2rLWPd4UbcGVRzPRaYsJ7UkmwvW+MY/waHAQ0ArJHvUXw3s8CBYUR5MRhSpM55pHUQCcA8DNMRjlXilLKU7mk25n/Int27VsftCo1ttMtUtmO1EnOPKQocvA/xT9aX52lkDJAETmUwZUmAhhlhpyNNc6+1AHyDtQDUtxfX13LbHDzCFkOdMc7QaIyVJZm3x9I2KWgqQn7ml/QyJ9g+HvrjiJMORIUhcdSd2RURXxHznj9zRVP8AT9N3EHuII9D+feIviFJs8y8oesLSm2ekkOJUed+Pm/uldPf7V1X9RFjg2nWDL9taSwzLjtulsehUMmuVpPI+lNKyCoxMs3O8pfCuaIadkCJeocguJa6bgVvV2FDlcYx29qojjOfxRcwZ61uVxnG0RUwb3bRLuSEssO9LlRAztoHr5qbItFsWzcW3f2lfWkIRkZOMH+6BtSG/23w+4wW5qj/zWjU89SrjdI6V7Wtu4443c0uY9o/vSM9DSb71UevxvIjZclLVJuryY7EwdJJPHam3wz05Otkdtz4uPIivPKDTTiN2PrzSXFWu6Is8TplTK3ylf2x6V1dlSYSIMVlYS22o4HqOKiTIG8Y9YuDMKweN/necH8b3Uv6tcX+6s3BYAQekCA3j+P4rnqcbh7e1NPiTLgStTSl2+K5HQFEK3nO5WeTSqkcgf3TOsYUTONzKX5qsfTPapdxgvwpHTktlJIqJgjuDRzyHHtTXF2JBYU4AIS+o0QOxos/qiXdkpVLCU9IfOpIxuFKG0kDj71s6ikNbE9j3+tRtWreUs0XtUxIMabVry5WpktQwzhKiUqUjJFYJ19ewcqeSTuKs496UwDzkVfb+K9FajykT2u5yxhG+3l+8PByShtKh/onGaGp83HH3qtp745rdDjPS5KWmUFSz6CjAxsIBOZ//2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Age of Empires II: Definitive Edition</div>
+                                <div class="name">7 Days to Die</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Strategy
+                                        Action, Adventure, Indie, RPG, Simulation, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        104 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Jan 2025
+                                        Last played on 8 Jan 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 301 achievements unlocked
+                                            26 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QAMBAAAQQBAwIDBAsAAAAAAAAAAQIDBAURAAYhEjETImEHQXGxFBYjMjVCUVVzkZL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQT/xAAbEQADAQEAAwAAAAAAAAAAAAABAhEAEjFBUf/aAAwDAQACEQMRAD8ATMqverbemSu1ltQ7KOHnFNDlpRKk+vUkFIJ94GdFUq+r5VO7BarWYshmC8kT2n1rW46kApWcgc5BGRwQrUO3JS1VkmNMU0XAl8QFY86EdSC4jq7YPmVj0Pw0xqr2b09FsmZuRVm3JWWuthlaSlP3uyvNntngY5751kAVgINonPncy/WG3/cJP+9XKe7s37KO09OfW2tfSpKlZBH6a3/bXV1Vdu8O0LYahS2EveGkjpDn5+kDsknkD10H0H4xE/kGkdF4JA9YgSGmYzYh3DlPWU8lLVxEeW+40/1dL6u5CSE4A6R89bzO2tzWbLzcOM2mMtJSXS+hbaQU9wQTn+tA1JElRd5NWC46jDUo5cSQfKpOMjn106qF+nqaaLm4jrV9FbaUhKh4zLnhglST7wFkgj56NIEHLDIWpNGVO84ZsYO12rCW1GZQktvzlguBoKxjqCMnA6SAMa0nfZztmrq0WsHfbM6Y2kOtRTXONJkc8pQ4VYJ7nt7tUHL22s33mrvb8WWy+PBL3DTqW88DqBwcdxkcHRBfJ281t2M3UPuQH4iSluHKSl8vIK8n7ZJACueAUj46gaIVv3V4zdb/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGAP/EACUQAAEEAgEDBQEBAAAAAAAAAAECAwQRAAUSBhMhIjGBkbFhcf/EABgBAAIDAAAAAAAAAAAAAAAAAAABAwUH/8QAIREAAQQCAgIDAAAAAAAAAAAAAQACAwQRMQUiFEFRkaH/2gAMAwEAAhEDEQA/ADbIu66gjat0MlCnn6spSaCf9OWsPdlrXpux2MgOIARJ7fqv3JofoyqgY1x7aWnczbsVoh4w7E/QAyVqtJv421WW0pU0+BfBRux/DljD/V6x2DsNZJLzZ7j/AA4j38Ej68H7xAwnY1ruuk+Htz2YT5Iw4foIyF2GO9dda3U5LbqwnvKPpUau8TshSul4MmU4+6t/m4oqUAoAWfjHXkbGSXKLnKE92JrYNg/OPSx2hcW7vYHdWpVOAAqN15v9xOyDE6XgxZbUhpb/ACbUFAFQqx8ZewsSNkILUcFQmpROZPsnO8+l/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Frankish Victory</div>
-                                                <div class="unlocked">7 Jan 2025</div>
+                                                <div>Knock em Dead</div>
+                                                <div class="unlocked">10 Apr 2024</div>
                                             </div>
-                                            <div class="description">Win a game playing as the Franks.</div>
+                                            <div class="description">Die 7 Times</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHAwX/xAAtEAABAwIFAwMCBwAAAAAAAAABAgMEBREABhIhMRMiYQcUQVGxFSMyUnGRof/EABgBAAIDAAAAAAAAAAAAAAAAAAIDBAUG/8QAIREAAgEEAgIDAAAAAAAAAAAAAQIDAAQRIRIUMWETQbH/2gAMAwEAAhEDEQA/AJ5RoMpuK7KKkpbb/UVrcCVg2FydQ4sPpgtGtBSCqY9oSpFw26EuH9xJWONJ4sPGOp6f0qp1qbUEMtpVFjxroR09QddUkpTe+17XsfjFTk5VVNqOlqO+wkMqXZDKSorKlm1rcdw3w+yskljDyDXrFIuLhkYqlRiK844G2iiQHSjpauk6rUdu/ZZ7txawtvxxgCre7YehOJkH2zwCRocWUrHBvdR3O9xxi80zKv4ZKiPIlzGnEoDjy+igaVBbZCRcXFtJ38ecSj1Tob1Nr9IkpUp1h+GyXSUgdN9ICFjbYnYG4+uBvbOOJC0a6x9iit52cgMd1tkGKJzsphAd1JaQ5+Ve99SweP4GG5ykVaNZUefVYyhwS64PvgTIzOWItCiSZuYHItSW2b+2cU2UJKirQdJ7t97+cdlmZl1bhDmZ5obJtqVOcKvvxjLyO/PlGxHj8qw6CynmzYrET87MWLdfkupG4DyUOD+iMKXqPmDMNSYgQ8xyI7raFF1npshs3BSCTbnnDNKo2SnS4WczBK1bguOat/Pz/uEnOdDo0RgS6fmeDKeQARGCVBSxqGyb7c+fjEiGV/DSEjeseqX1PjPINmv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAAf/xAAlEAACAgEDAwQDAAAAAAAAAAABAgMEAAURIQYTQRIUMVEyYZH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBQf/xAAjEQACAQMDBAMAAAAAAAAAAAABAgMAETEEBRIhQWHwUXGB/9oADAMBAAIRAxEAPwDm2A6teWnVk9Lr7llPaT5LN44+sOxX1DVhl06ewyL34I2dH2BI2B458ZjJYsL113WNIsDNHkD39+K2jamLdYe5kjSyCFKfieQCOP3jTJ7pilC9VbTorSkrsSo4IA5H9yhwyABiBStueWTTq0ufc+a2LOorEcOlzxyMqvOjRoGYDckfZxnk11RX1Ge5A1KsZYkQjcNtyTz8EHwMkQBYXoblI8emYoCSenQXz9eKI6ZsxpXjpOwFj09wDcHcbDkEE/WPckdK0zUItXoWGgZI44gkhYgeCDldlpgOVwaVtLyNBxkUjibC/cWFf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Prepare for Boar!</div>
-                                                <div class="unlocked">7 Jan 2025</div>
+                                                <div>Your Number's Up</div>
+                                                <div class="unlocked">10 Apr 2024</div>
                                             </div>
-                                            <div class="description">Research Loom at the Town Center</div>
+                                            <div class="description">Die 14 Times</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+24 others...</div>
                                         </div>
                                     </div>
                                 </div>
