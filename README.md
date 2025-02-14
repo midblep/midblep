@@ -6,7 +6,7 @@
 
 🎓 I obtained a Bachelor of Science majoring in Software Engineering at the Saxion University of Applied Sciences in The Netherlands. During the study I've done a multitude of projects for clients and worked in teams comprised of people with lots of different backgrounds.
 
-💼 I like to keep busy and continue developing my skills as a hobby. I run a small scale webdevelopment studio and am part of two ambitious SaaS projects in the medical and social sector. Next to that I like to volunteer for things I am passionate about. Currently I am working as aBackend Developer for one of the largest online conventions called Furality, and also as the Frontend Team Lead for an in-person convention called Reffurence. Check out my experiences section for even more projects I've made and been apart of.
+💼 I like to keep busy and continue developing my skills as a hobby. I run a small scale webdevelopment studio and am part of two ambitious SaaS projects in the medical and social sector. Next to that I like to volunteer for things I am passionate about. Currently I am working as a Backend Developer for one of the largest online conventions called Furality, and also as the Frontend Team Lead for an in-person convention called Reffurence. Check out my experiences section for even more projects I've made and been apart of.
 
 💻 I enjoy coding beyond work, but am also into tons of other tech like building computers, playing games, drone flying and 3D printing!
 
