@@ -102,15 +102,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABwECBAUGAwAI/8QALxAAAQMDAwIFAwMFAAAAAAAAAQIDBAAFEQYSITFBEyIyUWEHFFIVJIE0QnGh4f/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAQQFBgD/xAAhEQACAgIDAAMBAQAAAAAAAAABAgADBBESITEyQVFhFP/aAAwDAQACEQMRAD8A+fbhNdnyPFdHmxjiuOw7uoHFInhXtU+2wX58xqJDbLz7qsACoJAGzJAJOhIISrGUkFf40obJXhKT/wBrUak0ddLHIYbeYU94oG0tjHPtV3o7S8y2zkzrzEUwhGFJbdGd9V3y6gnNW3+f2WExLWfgRr9g8U0tPGCE9sik2H+RzRJ+p7abw3GTbIQS4hWVeEkDihxCjSlyyx4S1PjjZjmpx7xdWHPUjIoNNhT3+xqk5AJ9VPjSHIctDzYyoU90eG4W3RhYOMHtXJfB4PmqxK8RABWAe/Q1caaemM3uKLd/WleGuO9RdO243e9Q7cle0vr2g0XrLotjTd6bU6oOP8YOfT81TysquoFG+RHQlzFxXtPMfEemXzBeTFTJu5D1xIxs7J+cVWTrpGC/3ckcclKj/oVE1LclRI772TuGdpNBW53SRLkuOOOK3E9jwax8bEOQfwCa+RlLQO+yYcW34MgFUNxBfHaoi5Yhy1GaxHQlwYLgbAP8Ghnpy5vRJMZoqO0qyVHt/mildY4l2pZfxuCNwr1+OcdgrHo/cOjIW9eSjsQQawnMT7q6uG0W0A7c+/zVechKN3UjANWN8s0lK1SGWFqjZ5UKrA6FnCjggYANdBUV4gKdznrgwsPIakmDJciTW5LKtj6DlB9jW80ZeJ91ujy50vKkJBSCetD5B91JVnuO1afRCI6Lsl+S94YZ8yRn1UrKRWrLEd66h4zstgUeb7m9vcNdxtb7X9+CaC8+E7GfW24hQUknBoxOXuLbJ5jSJCFeL5h8A1M/T7Xc1BWW1pPJIrHoyWxtlh0Zs34y5I4g9iD76e6bk6kurSCkphtYVId6BKfeifqWTGjW+U4g5Q02GkDPq28ZruqVCttv+3L7MaMn1lA2lQ9iRWL1U7Jv8B1duTshsjIP51Ft5zLF2NLCpx/8aMd7aUMvWEddkEFuMoLCiST81iixh7d0BOeaZwmVhxJBzg1KWOnPSt2mlKgQn3MK697jt55A83apLLim/MhXNcZMd6G8EvIIzTN5B4B5pvsSDrydXElwlxalqWe5Oa1WlFwERlG4S3G+PzIrIb8c4PFKXFHynhPWlW1CxePkdTca25ex16lvPzXksvuKj5IGVE8VLiXKY1bftUOKDZ681BCkjkJpSvJB6AdqIVroDXkE2sWJ3FDSd+9fJpqsbq8V5TmlaadkvpbaTyaOLn//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABwgABgIDAQQFCf/EAC4QAAEDAwIFAwQBBQAAAAAAAAECAwQABREGIQcIEjFRIkFhExRCcTIjNGKBkf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBWFg7AkZ8Vc9PcMdWajtqZ9ls0iRGJ6UqTg5IqmBRUlKCQE570xPJ9erijVtwt/wBZ1yG4ykdClEpSc9wPagGrXBvXrrq2xpyZ1IGTsK3HgvxAKUhenZYTnbYU9msdQR9KWOVeJbTjrTKepYQcbCl2uHNOn7x0wrS6I2MIKiDk0AgkcEdesu9LGn5T6QkK60AYz4/dQ8Fdfo9KtOTFZGUkAbGjJofmbRKvoj6milmG8QlDyMJDXyrzTORJDcuK3KjOBbLyAtCgdiCNjQfOnUXDLV2nbeqXebNIjRU7lxWMVTFZUMq2HtRd5lrtqFXEaZBvEt0NIbSW2UKKUdJzj09qEIPcA7Hvn2oMRTR8lVqUmderosApcaS0kkdsKpXASO1NxyXTQq1XSJj1N+v/AKqg97mk4jOaasqbJBQ24/NBS71pCgE4zSYJK3nSEJ61un+KR7/FG/m6un3fE1UFGPpsMNkq+SKy5SbHAvet56rk028IjKXGkrAIKs4oAe6yphxTcltSHMbA7YpyuU7XSbxplen50j6k+FlYKjuUE4Aqk84+l7PbV2m9QmAxcZiyw6hvAR0JTkHpHvQ35b7mbdxWszAKimW8G1FJxjud/IoC3zmaXbVGtuoo6MvKX9F4gdkpG1KkonbbAp7uadAVwykkpBCcknxSI56h6vYYFBycdKVZHVntTE8m94bhavukF1wBuUwlLQPuvOcUuwzkHurxXraTvsrTWoIV1hrIeiuBYSD3+KAk81ENcXi5NKgQlUdtQJ9+9DrSOpbjpK/xbtZni2+yoKAz6VfBHuKYDmNTA1tw/sWsrJ0vu/wmKR+ICdwf90sudhtlNBcOI/EO9a/nok3pxASgAIQhOEpPkCu/wDjiRxc04lWekSRkj9UPtsdjRu5TLKbnxH+5A/sUJe3/AGaA0c311TbtCQ4yiSqY6prA8YzSUUfObLWTF91U3aYLwejQsEkHIC8YIoCk4yEkEEUGNcVKlBddD63laaZkW6SkybJNT0SYp3PT5Tnsart6ajNXBf2DqXIyz1ox+IP4n5FdA7f5D3NQdITj3Pv4oN0ZlyS6hiO0px9xXSlKfy+BTK2+5w+CPDFTPoOsLkgkY7tJVukqoB6S1CdMyFzYrKF3BI/pKdSFJSfOK827XKZeJr0yc84+6s9SytROP14FB1Zsl2bMfkyFFbzyy4tXkk5NaKlSg//Z" alt="" />
                             <div class="about">
-                                <div class="name">Factorio</div>
+                                <div class="name">The Elder Scrolls IV: Oblivion Remastered</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie, Simulation, Strategy
+                                        RPG
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        433 hours played
+                                        12 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 11 May 2025
+                                        Last played on 12 May 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            33 / 88 achievements unlocked
+                                            4 / 60 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBAwQF/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDBAURIQAGEhMxBxQiFUFxQlFSgbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMF/8QAIxEAAgECBgIDAAAAAAAAAAAAAQIDABEEEyFBgcEUMVGhsf/aAAwDAQACEQMRAD8AR2y6DCRTRWqo62uSp0Ip0BxsqTIUFfJTmR8PKceVY+2jregoVG3IxLrtHahofitlpCI4COxDYbVxAxYm5IPgkHVm2JVB2zEoT65nu1xYZlvQ+1DrSHuZNwo2OU3It45f3of9R/UqHvShfT1U+QXWl9zLvwHWv9RwL2IwR+P21fxY5sOWL2517qXkyQzhVjuNzt9kVvRtSk7hpjEimwm22XGeaSq7KwhpVgkFWFKVcnFyQPOldXaJIpTh7EktcuBXawCsnjnyQNNOJIjxvT6iyEzVqkONKU7HaPxHEqSOZ8hXxRaxxn8a40Xr3NTKpwC31cSEKDSVucgAQBewBNrE4xfWKhmgcljdOe62GSKdNNH46qZJnS6O3XKM52SfbFt5twNuFSTg3SBYH43Ate2qfTbdZTuGntVN8RojTvat1thu4P2xxsRysSLZ0NbN3XJ248tCUh6G5lTJNk8jYcjYXNhfGjYHZNZkLmh32bp7Fq4ngSlJF1FORnBA8nQ6ZLXZL/BApo5M0AB7bEE/lMLftUorkByVxpD8lV1lZhqSVX/kEr43/wB0BMw00DZE+dOjoaemFThZUwVIQFCyEqTfF/zi+tztR2ft89iHfeSmlFKO5fYEKCeQsBjOByscnS23tuuRuaaFqT1xkEltBtyFwLgkeRcY0weXFWBFlodYcLcqbt6r/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAUGA//EACoQAAICAQMDAwMFAQAAAAAAAAECAwQRBRIhADFREyJBBjJxByNCUpGh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIE/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIAAxESIRMxQWGRobHB8P/aAAwDAQACEQMRAD8AghdtxCsj2ZFOzcUaYQoCfAXkdvnA8DomvbTe7RTpCxGPUnjWzCx+dzrtZc+WBHnrK4TWlhSevXktWJgBNIu7KKdrEA8csfH8T56xgt1ZLFq0tRcxD9swp6ZZicKDsG0DaGYkjv26tUDLkBEsQbEwrV7f1DpVlEtE1FmG+L0F2xODzuTBx/nS+nea3YkivlJYiryOVjXeSF/tjPVxDLHqH0pNpMdhKUizR2MFvUUQgAuYChPu5UlOO/YZPSo0NNmrTiCbUTJLGI68thkY+4gFtu3IGD3BI5A75AOengVZBfx8/jHjbIENqB6gIbNiCcLIyUZcWVQ8mJpN6yYHxyw/IHnqUhVo4XjeTaUm75G07VI+eD9wx+eqvV9MgoRVbFHVBS1mGMqVfcizKGIBViMcjHlSMdK456N4hddrRwO7jbaqSoo3Yx7o84I87SDx1VBwiaNx7+neTUUlt9Y6/T034bwuQI8lIM0ViKRgu31Bn1EHY9h257jt00uwT05Zr1rUrVqGMZMEgUKRuHAA7AZyB0TqOvVdHpRVNLr1ZoY0yXhkCRbz7sKpJPzzzxnpZb12LU9Pt1TFFE0gCBzMGJyR9qgc/wDPnrDUZqr52sPqaVARcb7n/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Research with chemicals</div>
-                                                <div class="unlocked">21 Oct 2024</div>
+                                                <div>Delivered Daedric Artifact</div>
+                                                <div class="unlocked">12 May 2025</div>
                                             </div>
-                                            <div class="description">Research a technology using chemical science packs.</div>
+                                            <div class="description">Delivered Daedric Artifact, Main Quest</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUE/8QAKhAAAQMDBAEDAwUAAAAAAAAAAQIDEQQFIQAGEhMxBxQiFUFxI1FSgbH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAlEQACAgECBAcAAAAAAAAAAAABAgMRAARREhMxgRQhMkFxobH/2gAMAwEAAhEDEQA/AEfsqw0SLaL1dHWl1CnQi3UDjZUmoUFfJS8j4eU48qx9tHO9E2KzbkYq77Z2qND9K2WkN04COxDYbVxSMQckg+CQdWbaqbHtqisT5rvdLpaQ1b1H2odZQ9zJkKMHKZIjxy/vQ76h+pNLvOxfT3aF9bza+5l2EjrV9zgTBGCPx+2sErtIwSjW4xfiJIZwqx2N/b7IzSRtS07htbFTbaJttlxnkkmWVhDSoCQVYUpUk4kkDzpW32yVFqcPYklrlwK4gBWTxz5IGmvRP09N6e2WpTWuKfcaUp2maPxHEqSORIkK+KIg41hU3Xua23TgFvqghCg0lbnIAEATABMQTjE6RDJNE5L+jv8AGdd0inQcPk/bJVJrquzt3yzudlT7YtvNuBtwqScGUgQD8ZAiYjVPpruwjcVvZubyaekad7VutsIkH7Y4wRygkRnQzs3ddTtx5aEpD1G5lTJMJ5GByMCTAnGjcHZN5qF1od9m6exauJ4EpSRKinIE4IHk6N4+UTxJexAwo5OaAA9bgn8xi78ullXbnKmLS/UK5LKzRqSVT/IJXE/7pfNUabDsi4V9dToaerCpwsqYKkIChCEqTOJ/OJ13vXLaFg/UQ77yqaUUo7l9gQoJ5D4jGcDlBydLXe266jc1aFqT10yCS2gxyEgSCR5EjGqjMuooEUvW8kiw6Wyptumf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAgMH/8QAJxAAAgIBBAEDBQEBAAAAAAAAAQIDBBEABRIxIQZBURMiI2FxFBX/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQF/8QAIBEAAgIBAwUAAAAAAAAAAAAAAQIAAxEEEvAhMTJxwf/aAAwDAQACEQMRAD8AS+makNnaoFnAkmjQuyBynkkgZAPgZH88a3Nt9VooLy0FjQWRXuRsxLrywpBOfOCyn9j+6A2plkpiuI+O8wq8lNyPMxUsSFI7BwQVPz11oHcd/wDrzWQzEQ3JKlhoiWQAomWXHeGKgcgT0NSpUzscc58lDOFAzOjV9voUD6h+pC4iowpYiSOZ0ABiLFfDYBJUn+EaG9S7NstH09LZsUUWWSNZSQ/JixA5BSx89nv+41DwepGsNYS7Yda9uw1y9gc3mwoKQBM/aoA4n5x8DVPvQm3vaLF/ck/5zPGtWnXkIMih3TlIc+5GAAOgD86V6mrYbjGVwwOBIndrDLVf81SzBFKZIirfmrPkniUBywIPk+3vjGks871ZPowuYuIBkZCQzOfuI5dhRnAGf2ck6pRX2+tXqiRdrFxFYO1uKX8g5HB+3AZSPnOlG71Uu35Lcu5bRE8zAlI/qKpP6BBx11rQ0ltanDDpJbkYjIgkFmSzmKZmkdwRG7EllbBOOXeDjBHXnPtpjtcyvHLdj25LJUh5bQmLtHlgSeLecDrPz7nOsa21f5JxLJe2qQKuMM0hXJHyoHnB6zpxHt20NQzJbptuOFSFq0k3I5IHFuZwVA848aOqtrY4Ttz1BUjjyn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Research with logistics</div>
-                                                <div class="unlocked">21 Oct 2024</div>
+                                                <div>Located the Shrine of Dagon</div>
+                                                <div class="unlocked">11 May 2025</div>
                                             </div>
-                                            <div class="description">Research a technology using logistic science packs.</div>
+                                            <div class="description">Located the Shrine of Dagon, Main Quest</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+31 others...</div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
