@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            13 / 39 achievements unlocked
+                                            39 / 39 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAAsEAABAwMDAwIFBQAAAAAAAAABAgMEBQYRABIhBxMxIlEIFDJBYRUXQoGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQFAv/EACMRAAIBAwMFAQEAAAAAAAAAAAECAwAhQQQRMRITUXHwkaH/2gAMAwEAAhEDEQA/AAtPotBpXQmn3IbbpdQqQaQpxcpsq37ntpKsHPjQO6bksZyiUpy27YpzdRccS5OadiFXy7aSNycng7vceB7HVBtu2p9zfD9SIFNkpZefi5SlxR2LLbpXtIA8HGCTnwOPJ1DW/wBQcrMgSFNRu26WpD7qlKbZ9RSpSsZKkgq8AEeNStNpw5ZpCSeo5PGKandlACC2w/a6ma6ZWW+Elu2aencMpDkfGc8+QcaSOodpWjHsm53adb0ONNhRVKQ8lrBQoEcg54OmbozORPtsriMKYixlpjMTCodx9KBtDq0D+JIP1c8+TrXq081K6fXi4w/FUuPDVGksNAbmnRhRCiPcEED86UkgKOGVjYjJ8iqI7XbbcC4t7++4rTohIR+1VrspWn5pLCnG2ieXE71ZA/rOob1btaTbdxzpaGHZNElyS+04lPpQFK3KbcxyFBXvwQBg6oPSa9bQpNkW+io1qBGqcRgtrQ6shSDvUeRj2P8Aujt59VrbRQpL1DrNImVMlKG2XzvR6lAFRyASACTj8aPBqGSVlKnk4O3PmgyJE8Sjqx/agFuVe4pHYi0Ge8xKkvsxWY8Rfa3qGSMgcbff7ceOdWipW1Otfo3fDddmMSq7Ue9Ollle4DIAT9h55Pj740v1JVqTg4h+9rRy+U9yTHoyWH28EHLS0q9J4+rGdH+pV72fULLuVFPr0KRUZkRTaUIWSpxXGABjzxrWq1PWVRFNyN7HyM0GGNQGLtwLe6//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwYAAwUI/8QALxAAAQMDAwIDBgcAAAAAAAAAAQIDBAUGEQAHIRITMUFhFiIyN1GBVHSRsbLB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAABAgQF/8QAHREBAQADAAIDAAAAAAAAAAAAAgEAAxEhMRNh8P/aAAwDAQACEQMRAD8A6m0dh2rVNt6DNqNv0+VMfYK3XnW8qWetQyTn0GqWbYVjRu2hNqU1+S6SlthpnKlEeOecJAz4nWbI/Ke2s/hj/NWhr2/l2ZvLc0l7uyKfImONSoyVDKkjhKk54ChgfbI1nSJtcvrKqiXYbzGWDYdhzO6hFsUxqQyel2O6wQtB/XB+2uDuhYNp07bu4ZkC3qdHlsQ1ONOtt4UhQIwQc6NZ24D957vW1KioVDhMzWEtMqIClZUAtayPEnJHoOPrpx3g+V10/kV/uNCiCPb7xGM8ivnJ3bJc9W19kRaZ0lbzSlrw+plWEOKKveA4Tg+pJ40OXHZVct+6H2a7AqE2iPylOOSobXd7iFKyVpOCQvHkcHSXtleFmR9ubch1i4I0KowmFIID6m3GiVqJBwD6atmNzbIZZbbF3QnChOO468pS1ck8np9dTjWtWyYh8g2Ls8XPPdFsqvXHcKYduwKjGobUlKm5MxrshtAVw4s4GV+eBk5wNO+5qnGdtrtgSGS2+mmKkFRfU715X0n4uQOAceWdbqnuFYVTjoZlXXCCEuBwFt5QOR9eOf68RqX3CvKxndv7li0WtwHp8uGppCUvLcccOQQkE/7jRWtilswS2tzk5P31n//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>World Traveler</div>
+                                                <div>Litter Picker</div>
                                                 <div class="unlocked">11 Jul 2025</div>
                                             </div>
-                                            <div class="description">Open all Tanuki's portals</div>
+                                            <div class="description">Recycle 100 items</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBwgC/8QALhAAAQMDAwIDBwUAAAAAAAAAAQIDBAUGEQAHEiExEyJBFFFScYGRoQhCYYLB/8QAGQEAAQUAAAAAAAAAAAAAAAAAAgABAwUG/8QAIBEAAgEFAQADAQAAAAAAAAAAAQIDAAQRITESYXGx8P/aAAwDAQACEQMRAD8A4se17Wb2ch1+pW7AnSmoDklxTiPM6UlRwT9ANTtqdu70QqOq1qXBqzaeSoqkcgtPxIV6j3juNGrDXFOwkRqa4EMqpT4c9SE4cycazOwwPY/aETGUPJHVnkpLmOxIOMfTOcaz9vbtdGYMxBDaOT81YySCLwQARjdaK3Di7cWVDQZNs0yTUHhliI22ApQ+JR/an+fX0zoXVaBa9V2TnXJEtinU6auCt1HhJyWlpVjKT9PzqjXYuICZT0xHjLTltlQWpS05xnljiPlnWjKqqGx+ntyLCWVoNDC0nGPQEk/2J089q1sIwrFmLbOTz6pJKJSxIAGKUaZdcCjbdWvTJMJ+YZdLcVJQ2sp4sla0ZGEnKu564HTvpWqu29yUNwO0sMVGDIQlbLzakcloOFJJbX1B7ds9fXTZa723NZ28tuHdVWisVCEwW1APqacSCskoVgdU9jj7aeRce2q3kqVdbLKQjhwS9ySABgBOU9Pz2GpkuHR/Kgg5Ocg4O9YP9+UcMML7nbA1zvKqembb3vdAhs1PhDp8bKUOyXEYbBOVEJT1J+f30frF1U5NrV62oUV1EZujOsw5CiT4gawFFWQB5sE9CQO2nSRcu36YZZiXfG8TkFc3HPKcHOCkD/dKt3y9tIdrXS/bk6mms1CI42kNuKUolRBKUA9E5Pu0DXDu/lwTzGAQBsdo54IUAaF89znvNV//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgYHAwQF/8QALhAAAQMDAwIDCAMBAAAAAAAAAQIDBAUGEQAHEiExQVFhExQiIzJCcaEIgZGx/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUAAgP/xAAjEQACAgIBAgcAAAAAAAAAAAABAgMRACExBBJBUWGBocHR/9oADAMBAAIRAxEAPwAdq7Ktmp2JQ5dSo0J+Q81ydecbypR5Hqday4dlp3KVaptimcPYcxI4YPtOPPjjy4/vTRtEEjaqhqCvmhg8RxJ+5XlqC361MF51V2uNOR5LkguIUsKSlbY6JCcA/aB1zpbEDJI4JOPZ3WCCN1XyvXp95W7Xp9hXLWKtCpttwFN08oHvHs/hdySDxHkCO/jrJuNZNtU+xa5Kh0OCxJZiqW24hvCkKGOo0vbCiTGk1aaYCmKa+23h5SFcSpAJVx79MHPl4Z8NO1/1uDcO1lfqNMktyYzsNYC0DGCMZBB6g+h1V+5JQAdazWIpL05ZlAJB8MPYWtQZ1lUymNx1KcgxAX3SkcQpS1YSPPp1zqcfyUTJReEFK+kL3X5CR2CuR5/39P61z9p7qj0iKzBk1OnxIj/Fbq318VMrQrIUMDOe4x2OdM29NwW/dbMZqj1yjuFtalFbkjhxzxAxkeh/z10Q0axzKyjm7+MVRu0kTozcVQ98X9pb2q9LafhuxX6hRIiA66pAKlw2yoAqHmnJyU+HUjx0w3AlhiJupHp4SIXurDxSj6EuqRlePz0OprApCI7qmU3hQo8aSktSFNy1kFs9wU8fi/H/ADVEq9Vsuj7ZVykUOuR5cuUwoqUpZU7IdOBk9PTt4akir3Wo2f3COndzGVkIoXW98EVn/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fin-tastic!</div>
-                                                <div class="unlocked">10 Jul 2025</div>
+                                                <div>Local Celebrity</div>
+                                                <div class="unlocked">11 Jul 2025</div>
                                             </div>
-                                            <div class="description">Eat all the yummy fish</div>
+                                            <div class="description">Get photographed 20 times</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+11 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
