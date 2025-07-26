@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            6.60k hours played
+                            6.61k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        116 hours played
+                                        124 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 24 Jul 2025
+                                        Last played on 26 Jul 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            52 / 151 achievements unlocked
+                                            60 / 151 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQL/xAArEAACAQMDAgQGAwAAAAAAAAABAgMEBREAEiEGMQcTI0EVIlFhcZEUgcH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwABBf/EACkRAAEDBAECBAcAAAAAAAAAAAEDBBECBSExQQAGEhRhkRMVInGBobH/2gAMAwEAAhEDEQA/AALBZ5L5PWQw1cME8EYkCyKSJATjuO2OPY99NNp8P4XgX4zc5xVv3hoIg4T6bmbj9aTSr0nS96uixSy7XjpGZBkxRsQzvj3HCKc8YY6o3hxcbu1Od1puElvaHMLOix+oG+bbvK4Ug8LzjAA1k9z3y7Jul02Cs0UkCIAIIAkAjOzz/Nps1oZ+TTXXSBrI95ODBxrpPv8A07T2+8/DqW5kzbFkYViLGqhiQuWB4ztPOMDjJGRoG/WiSx1FJDU1cM80yGSRY0I2DOB37559h20213Q97rLzd7zFc4qUVUL1f8SWNmliyh9Ld252gEe3bkDOs7r6gWmoLFUKSzJGKYvjmRAoKE/on+9MsncFxD9q2drGqmuQRAnxeHRMTgkc/nqXWzMvJqrIJgVgTzjPA1rrjw7r1grKy2yAlaj1VHcNgYdT+V0+0PWVppLNSwXG5wLV0srU7bmyxCEoWb6DABydSWy3SWz1E89NTxSzSr5aM5OE5yePfPH60BJDRVV8p7rVwSxVImE1QKYApVMCCMoxwp45xnOdMvHb7z5o4doIn4dUagk1RkxuJ/fporRd2ZZIorKjxgHeIE4BJxr16q3V3iHF07VUFQbVcJYamJ08yaFoEBBBCksM5wT/AJnSNfbu9x6fsMThhJ80qq3DeUMpGT+V5++M6L6m6uF+o5aaW1xzwykMVq23LkHIO0fQ/fWHcq83GSjc0kFO8EflL5WQrKDxx7Y0Fhsdxrdt3D1uaBTUSTIx9JjEzuJ+3td2u7IM1UUVhVWaYxPJzmI1PPX/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQFBgMI/8QALRAAAgEDAgUDAgcBAAAAAAAAAQIDBAURADESEyFBkQcicQZRFCQyQmGBobH/xAAZAQABBQAAAAAAAAAAAAAAAAADAAECBAb/xAAjEQABAwMDBQEAAAAAAAAAAAABAwQRAgUhAAYxEhNBYXHR/9oADAMBAAIRAxEAPwCBYLNJfJ6yCGrhhqIUEgSRCRICcbjbHTsdxrT2/wCgqdKdTfrrJFUyAHlUaKyoO3E7YHjXL0uoi1dV3FV4543Wnh4hkDOGYkd+mP8AdJtkggkQVUqKZZmLZIHtQnoB9v5++dZrdu73zO4LtWyx6AQIgCDAkCoZiZ86hZbK0LJJddIGsj7InBg440ZXD0+mEUk1puHOiVuH8wgUE9hxrkZ/rWcv9nksc1JDU1cM80yGSRY0I4BnA33z17DbXo2/UFCbNPUKqQtAvNyntD4H7gN/ncdNDHqlSsklurZQTPzHgkbAy4/UufB86vWPcNypubZm7cddFc+KZJgwCYmAY/dDudoZVMVl0EhTXSPfiCYHHGonpvcjSV9VQgkNIRPEdwWUYYeMeNJkV1pIqlKZeVSqAipxy+052yTsc56Hb40KWW6S2eoqJ6WnhlmkQRo0hOE65PTv28alVf1NWzpTSciD8fFzFEx4uBw0bJkorDJHEcA5U9xoO5toOn11VXTSPZrNMkQTMZIHMTj7n4Wz3tpQwTRVVHcAODI84BJxx700VdU1ZQKkLxyUM0hSWZJAw9jZKDB6kkY+M6M/Uy4c+SgpiwabmNUMoPUDYf8AT41U031hc0p5g0MDVMrDDZblqAMDCkkk/JwBhR0Uarrxc5LxU09RPTxR1EacBdCcP1zt2x186bb+znjO7Ir1pns0EwSRMwTMcgdXrSul7ZlgskmoCpUOBJ5MHPEx71//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Side Quest</div>
-                                                <div class="unlocked">17 Jul 2025</div>
+                                                <div>So Shiny!</div>
+                                                <div class="unlocked">25 Jul 2025</div>
                                             </div>
-                                            <div class="description">Complete a Quest</div>
+                                            <div class="description">Pop 20 Golden Bloons</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAsEAACAgEDAgUDBAMAAAAAAAABAgMEEQAFIRIxBgcyQZETFKEVIiNRQmHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAAH/xAAjEQABAwMEAwEBAAAAAAAAAAABAwQRAgUhAAYxQRVRYROB/9oADAMBAAIRAxEAPwADYNmk3ye5BDbhhnhRZAkiEiQE47jtjj2PcadweFdrpoE8R71NHdYBmg2+AyiIHsXbHH41r5Z7eZbV68AWnUitFn/HqGWPxj86K3MO9699uMPJaZFRSeen+PLH+z05P/Mai7g3M+oujhm3WITpjgAEGBIBGYmf7jU9pb2re3IuVEQVKvcmQTgxxxpHc8PUXmKbNviWcsEX7iErGxPZfqqCmT7f7476A3/Z5NjnqQ2bcM80yGSRI0I6BnA7988+w7aa3K0ooWIZpZUSLl0j6cmIesKCMA9JJ5HsMHR/mdT+idsttkyqzV3bHLrjqUn4PzrWDc7+u5N2rlc1UVGoZFMkxjMTEx9+6Fzbmq7FwvQiKVKfU4znHEwNDeW+5fa37VAEgykTxH+yoww+MfGp69vYvWbsl6ext9+a4ZpY2XKxAH9sYUkYHGSR6jk662XdJdms2J6teGWaRPpo0hOE5yePf2+NHT+KbM0EUrVa36tD1JFaaLrQoysrqyZGQQ3pz0kgZGm7vt535dZ4igSnWaRIIJ4yRTzE899jT1ovDQMUklVR+lIODjvAk4mPulELyPNTpwzLfNy/GWhq9SsYVPU4JIHBzznjAOrDzMviaSjVDBpRI05UHsvpUfk/GpyLfJBcfcmoVn3lwUFlmchFwFAAYkk4HLMc847Aay3jc5d4s17E9eKOxGnQXQnD857e2OfnXLZtt75dB0qkQlQTkkAzGDEzEgdTorremdTFZNNQFSoRGT3BzEcT3r//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAqEAACAQMDAgUEAwAAAAAAAAABAgMEBREAEjEhQQYHExQiQlFhkSVxsf/EABgBAQADAQAAAAAAAAAAAAAAAAEAAgMG/8QAJREAAQMEAgIBBQAAAAAAAAAAAQMEEQIFITEABhJhE0FRcaHh/9oADAMBAAIRAxEAPwDP8P2Z75NVwQ1UEM8MayBXQkSAnHI4x07HkaY7b4GpTTFrxcalqnOGit0AkWM/ZnbAJ/A0L5fUYM1RcHL7llSlUq2wgMMt17Z+C57ZOnab0UtdvSooTBPPP7aNJpZEAYlmJyRuPBIB5PTPfXO9q7ZcG1yWaNVT4AgaAgxkAiDE+/62GxM1GiSzhIeRH5kEmDBxriXcPBO0/wAdXPljhUroPT3nsN65UHWHf7O9jmpYamqgnmmjMkixoRsGcDnnPXsONViiWA2K7BbetRPC/tZBG0rhn3IQQR8gMEEgdQQRk86RPMaJWalrVVhtqJKb5NvbbtDbS31bW3rnWnWe0XJe4IN3a80VEiIEnBjMTE+59n6F8sTGhosq3Siqkb1qCcAxrnPy6r1hq6y2uAROPWQMAwYgYdT+CP8ANP8AWxUDbYqUQU0ThRVCYgxODnCFGPVzg9RjA78DUjsl1ks1RPPS08Ms0iCNGkJwnXJ6d+360XU+KKyeGLfDTmoIeOVmDGKZGQqd0YYZIzxnB4OnsvUXry7qO0EyEqiJIgyYEnxBmJ/edcLNfGqbBJFRUfJSDgyBvAJONe+VqKmovis6wTUZ3e1SEgRRkAbk2r9f5Ocj7dRqfeY9WhS3UMQQMjNN6a4GxcYUYH9n9ayIfFtx2yyPFC9U7fA7nESADGQpJO7BPJwBhR0A0DebpJeKinqJ4IY6iNChdCcP1zx2x1/erWLqT5veEna1B+Kk7MDIBg+MyATGPv65LrfGdVvVSoVBUqGskZMHOte+f//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Unsung Monkeys</div>
-                                                <div class="unlocked">18 Jul 2024</div>
+                                                <div>Coupon Crazy</div>
+                                                <div class="unlocked">25 Jul 2025</div>
                                             </div>
-                                            <div class="description">Win 10 games using only Support monkeys</div>
+                                            <div class="description">Spend at least 50 Trophies in the Trophy Store</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+50 others...</div>
+                                            <div class="description ellipsis">+58 others...</div>
                                         </div>
                                     </div>
                                 </div>
