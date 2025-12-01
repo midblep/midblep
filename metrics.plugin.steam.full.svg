@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="492" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="501" class="">
     <defs>
         <style/>
     </defs>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        43 hours played
+                                        45 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 29 Nov 2025
+                                        Last played on 30 Nov 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            56 / 171 achievements unlocked
+                                            59 / 171 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EAC8QAAIBAwMDAQYGAwAAAAAAAAECAwQFEQASIQYTMUEjMmGBkbEHFDNRUnGhweH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwUEBv/EACcRAAEEAQIFBAMAAAAAAAAAAAECAwQRADFhBRIhcbEiQVGBwdHh/9oADAMBAAIRAxEAPwAOt8Ulbcu3JNKEy2XXkgAHj/GNa21mjtlGFqaVqmU1KlZA/wCrHn08kZH0OofT6SG8IIBID3CW2+CoyedJ1k6Zul6qaQ3OvCSAd1VCAkKQASW4B93B8kcayxI5kKJGia/Odm443EbBdVXNfztpmVWyw3OMiMxQsI+/JLEx90Rlm8+MFW9OcADjWHr4JKS5NC8kjBZABnIyM+cab73+H1faYq6S1HvFzG6Kq7NvvcLyf3PH30W9SUzx36ZZB3ZGZWPkecYz8RpTzRjnqNb8D94xtbU1HMyoGv7qM6OkgPzNXIq8qQAc88kk/YaXeg7wtJb6uJjBA7xtsMkpwrs2BuXwAcckHONANBcKikqmkRDjJUqVJDDPrq9F1ExJ71C4U8EI2c/IjVThs9iK2pp5J6m7Fbb7ZMnRVy3EutkUBVGxv7A463rqaErUSLUeyMTK6QSHPs1GCGwRjc2zProq69kjqaiOrpyplL7XcALk5OTj5cf91PprsKpdyN29gw4mBXC/7H9fTUS6XOSq2qp2RpMqhdpLMP5+MY+GfX56PicuK+wEM9VeO/1gcMivxZBdX6U1Xftn/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYC/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDBAUGEQASByExQVEiMmETFHGBkcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQUC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAERJBIXH/2gAMAwEAAhEDEQA/AA20lf1lYWrmsgeo62FJsa66/HaVTKW65GPskrWGkODyCogkfIGNXvB2y49w3T9achMiBCbElxpQ9C1qJCEq8gYJI74A0ybzyWwUMnJ6FX+DwNUGbPnZSZipyIoNzWNdFuNKeqlOfTHT7n2XQ8hP5KTy/es2kq3o9aiNw57j506qgFAhQBBGCDzBGlo4vWqxbN2NLp7Ybp9QSXm2x0aWFALSPjmCB2zpqQ32CnhnNjXdX7YpNekUhqnuRG3Y6ZH3IVvG4qSgJwRkdc50S4F/VepcOH6vTYbEqux5QYdiMtLWEgq5K2g7sbTnP50Am5MpLUuKhbyY8haS82n2uFBJTnl2JOpdMnVGlyxJpr8yG9jaXGFlCiPB7H962SpqxHi7MOsy+a1C4fQqnLgssXBKkqaREdaWkbEqO5W0ndgJGc/OhdxBuKt3FBoc2sNU9uMXn0xzGCgslJSlW4EnA6YxqjqVTnTah929MmyZGzYXn1qUrHgeB8agzJ78mLEhuh1TcdxS289Eb1AqwMdyB/NAKi6jxU//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Deicide</div>
-                                                <div class="unlocked">24 Nov 2025</div>
+                                                <div>Experienced Rebirth</div>
+                                                <div class="unlocked">30 Nov 2025</div>
                                             </div>
-                                            <div class="description">Defeat an Elite boss on Monsoon difficulty.</div>
+                                            <div class="description">Gain the power of another life by offering to the Shrine of Rebirth.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcABAYB/8QAKxAAAgEDAwMCBQUAAAAAAAAAAQIDBAURABIhBhMxQVEHFCJhgRUjMnGR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQDBQYH/8QAJREAAgEDAgUFAAAAAAAAAAAAAQIDAAQREiEFMUFxoSIyUcHR/9oADAMBAAIRAxEAPwBffDnphbjUVFRXSyCONzwGOTz400aSxUisRHG3aA5LsTt/OgvSiQUltkmmdoIELzyyY+nAzkk+wGl/d7xUdaXSWSWtmt9ngytNChOWHje2PJzgsOSFzgcc6ZpUs4wMb1z8wXXF7t8OVRevx+mmBerXBabNca1TMKwn9pVYjcAf4g+mR5I0vOuo5ahKM1EPYrlkC7e4Gk7eBw+D6NwM8+dSnvlXZURK8S1ccEgDxSk7lCnOMnz4zjg41prpNSXe2fOU4zHVIJVLAbh9eCCfcHUAdLsN0OOVWixy8M0ajrBPu8Adsb0J64u1VF8N6WKkWTt1VUyTSKDwiHdtJ+7Y/wA0JiR1nneMyVCRqryvKVDSR/SN4z7k+meD66v9N9YxQ2o26uplkpl3rIkiMVcbsg8Dz99ca3fqVOZ7PC5ym2OiqiyhBzjYwwMjJx48nIOl7gGbDoc7cqZsyLQNFKun1E56HJ8bDtQy73yoWirY4xNIJYlhcF3CpkkYUI23HsCMc41oezDaOm7NbzKhrYBtqIw2SrOwYg/0Tj8azVpoa2luyXLqGlalgpFEVPSLGQJmU7hkeSoJ3Enycfix1Ld4pmgKIXqGfczBD4z6n39dFbBYVZ2O/KiuwZ5EiTdQckjt9V//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAcD/8QAKxAAAgEDAgUBCQEAAAAAAAAAAQIDBAURACEGEhMxUUEUFSIjMlJhcYHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAYBAgP/xAAjEQABBAEDBAMAAAAAAAAAAAABAgMEEQAhMVESQaHwcYGx/9oADAMBAAIRAxEAPwDKqCmneqIjeRneUqoDHzpqlsVzcxwTNyogLdYOQMepJ/zRewWulo7bPW1AWXqYKKEyclsYH503WK2w3Krq4aqTltltUPcp2bIwBtAv5OPiP886UEqXJc6Ubc4xyZDcVouuH4HPv5iPb7TT1K1PRpKqf2JohITIU5lcbMcntkH+Y76UbwI/erCnaRYeqAAGO248+mtg4clNfwpxFfJAEku9y+SgOPloQo28ZzjWaXiyy0MlPPK6MJnDAA5xvq6qafUgdvT5yYrrj8VDrg1OummX6C7yU9EjyFmW2Va1AiCg8y5IHN5AJB0IoRepp62gWtMVvqpmmllWUcsi7sWAzlts9/7rnaKyWO6BpIpNpCGOD8Sk7gjGDtoncLNbWm6lRBUSd+T2fKcoY5Yk47nOMeNbRpQiEit/vA58ATAmxddrrGuqqoFNtisEfWjOIKZCQ8cUSfVI47H1P70ucYtIatJy4MQkVEXsQM+NRtcVvs8qvbPeSlfqmck5H2lexH6xqhxHfGuSw0oouRY5+oJeQ82M9jtoQWtYCdQOd8ObC0opXjP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Multikill!</div>
-                                                <div class="unlocked">24 Nov 2025</div>
+                                                <div>King of the Hill</div>
+                                                <div class="unlocked">30 Nov 2025</div>
                                             </div>
-                                            <div class="description">Kill 15 enemies simultaneously.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+54 others...</div>
+                                            <div class="description ellipsis">+57 others...</div>
                                         </div>
                                     </div>
                                 </div>
