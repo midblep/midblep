@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="492" class="">
     <defs>
         <style/>
     </defs>
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            60 / 171 achievements unlocked
+                                            62 / 171 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYCBQcE/8QAKhAAAQMCBQMEAgMAAAAAAAAAAQIDBAURAAYSITETQVEHFCKBFTJSYqH/xAAYAQEAAwEAAAAAAAAAAAAAAAADAAECBP/EACQRAAIBAwMDBQAAAAAAAAAAAAECAwARIQQSQTFR0WFxkaHw/9oADAMBAAIRAxEAPwDI8z1B2Bm6eKHUpXtY75Ed5LhBsO48Yr5FRlVFDstUp0ygsl75c3P7j75Hk4DWGHG6rMCEqcb6pAWlJIJ8Xtzi1yjQ5asyMRqhHW0wXEofSsaSUOWB0+TZV/rBoFCXIxakhhUqMcCl5UiUortKcUb2vqxOlNTJVViMh1atbgSElXN8MdYyJWKHWahTpjKgqO4UNrSkkP8ABBTtc3BBwaDlKrRKnS1SqfOQXVJWhHRuVg7gp7EW+77Wxl9gW4tYjHrUeEBCQOKZ8wQpVGpkJuA9b8i+qRNdLhB1pcsGk/xIFlEjc3HbHL6amG/mgzs2znl+3Wp9pgLKnHChVwBfsbck8DC1WKnWVVeWt3qyEreLhSUXST5txgtOTVKielAo6n5elSnFtpUlaW7b/K9gMJGsTQbFazHn38DGPFlimiEa7m6Cn31M9W3ay6I0GnNx1tleiSlzUspJ23tsdrkDAfTXMrrUyDOq8BKqRHKkyJrjViXLfBKCN9Wq23bfGVsOvtKsiEQEqBHx1KFj2OJy6tUnJjS3zIKeoF6Ffpt/Xj/Mc8mk0yxmOMC338/rdqozgIVVuOlf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAAEI/8QALhAAAQMDAwIFAQkAAAAAAAAAAQIDBAURIQAGEjFBBxMiUWFxFBUzQoGRweHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQGAQP/xAApEQABAwIDBgcAAAAAAAAAAAABAgMRAAQhMUEFElFhgfAiQnGRobHh/9oADAMBAAIRAxEAPwCf+G+10VKU+/PddDaFnAUbnPQarz20Wqepo+UVR3UBbayoqBHwf40L8P6OxIp10y0R1lanFBdwFG5xex7DRHd27JFOp0ijO2EURy+iYyrmtngoFd0WwnibcjgEjVOCLdACRlnUEtp/abzniIHlOgI0PrW3fD6I5AbkPsOqW6hbxV5ikpSkHF82z2GoZvthr75DMJsNhpfE8CoEi4wodOt866EqlclONolzZkCPSpqgiLFjOKecWQm49QAHEJFzb40h12itP0uQ+t9oBQulSgLkX+t+uNYpsvNEr+usU2lKrC4EbyhAkk4cP3rRvaFQjydvJQmPZGUEnNzfJH66xTUyLJnRKNTok9c1sCRInurBQi5AbTx/Le5PufoNTXZ+9m4MZqLLaX5LJWFekm/quCLd9PNJ3z9ohzpBhPNKcQGmWQg/hjv0sD1v8e+jS+2tAAMzz1rmyi4sn1qcncEwBGM9/ONAdgw6xTJwVMjtPU2Kt2Ow06V3jp5XHC/UKPc5sBovuvctMnQWwqM0iUpfEobVlPQAqybf1bQqj77dgvPR6iw4tpXJHNTZJ4np+3+9tJ+66vFekNmI2oqLvIENkWTfAPzoFutoRgcudNrD9ytIUIBz4e/Zr//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Acrid: Pandemic</div>
-                                                <div class="unlocked">28 Dec 2025</div>
+                                                <div>The Calm</div>
+                                                <div class="unlocked">29 Dec 2025</div>
                                             </div>
-                                            <div class="description">As Acrid, inflict Poison 1000 total times.</div>
+                                            <div class="description">Beat the game on Monsoon difficulty.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYC/8QAKhAAAQMDAgUDBQEAAAAAAAAAAQIDBAUGEQASByExQVEiMmETFHGBkcH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQUC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAERJBIXH/2gAMAwEAAhEDEQA/AA20lf1lYWrmsgeo62FJsa66/HaVTKW65GPskrWGkODyCogkfIGNXvB2y49w3T9achMiBCbElxpQ9C1qJCEq8gYJI74A0ybzyWwUMnJ6FX+DwNUGbPnZSZipyIoNzWNdFuNKeqlOfTHT7n2XQ8hP5KTy/es2kq3o9aiNw57j506qgFAhQBBGCDzBGlo4vWqxbN2NLp7Ybp9QSXm2x0aWFALSPjmCB2zpqQ32CnhnNjXdX7YpNekUhqnuRG3Y6ZH3IVvG4qSgJwRkdc50S4F/VepcOH6vTYbEqux5QYdiMtLWEgq5K2g7sbTnP50Am5MpLUuKhbyY8haS82n2uFBJTnl2JOpdMnVGlyxJpr8yG9jaXGFlCiPB7H962SpqxHi7MOsy+a1C4fQqnLgssXBKkqaREdaWkbEqO5W0ndgJGc/OhdxBuKt3FBoc2sNU9uMXn0xzGCgslJSlW4EnA6YxqjqVTnTah929MmyZGzYXn1qUrHgeB8agzJ78mLEhuh1TcdxS289Eb1AqwMdyB/NAKi6jxU//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcEBf/EACwQAAEDAgQEBAcAAAAAAAAAAAECAwQABgURIVETMVJhEjJBkSJCQ1NxgbH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwAC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAIBA0EEQv/aAAwDAQACEQMRAD8AdYFcSnpC4Ep0odQopaWTosdJ70g4zo5uL96k085TnyOfjNMLYx8SwiHOWBJGjbh+p2Pf+0uV0PbXqijjO/cV71x8XxwsvohMulbq1BLhB0QNvzWa4caEQKjRFAyDotY+TsO9FYJJnMknMlYzJqLNkCebl9uYp4znPgakrNDLtuMRQuBhywXz8LryT5N0pO+59K0XxcZakyYmFK8TqlEOPo5IHSk77mp7wnOhVdWWZBig2ZdIlBvDsUcAkDJLL6j59kqO+x9eRpzBBE5kEZELGlQXhOdCqpNg3OXpEaDjCyl1KgGpC+Sx6JUd9j+jUBNVvlj/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Experienced Rebirth</div>
-                                                <div class="unlocked">30 Nov 2025</div>
+                                                <div>Acrid: Mastery</div>
+                                                <div class="unlocked">29 Dec 2025</div>
                                             </div>
-                                            <div class="description">Gain the power of another life by offering to the Shrine of Rebirth.</div>
+                                            <div class="description">As Acrid, beat the game or obliterate on Monsoon.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+58 others...</div>
+                                            <div class="description ellipsis">+60 others...</div>
                                         </div>
                                     </div>
                                 </div>
