@@ -1,4 +1,4 @@
-## 👋 I'm Pascal, a 24 year old programmer and tech enthusiast from The Netherlands.
+## 👋 I'm Mid, a 24 year old programmer and tech enthusiast from The Netherlands.
 
 🤝 I am a versatile full-stack software developer. I know my way around many languages and am always eager to learn new things. I have extensively worked with a variety of frameworks like Laravel, NestJS, SvelteKit, .NET Core and Blazor. My favorite languages to work in are TypeScript / JavaScript, Python, PHP, C#, Go and Rust.
 
