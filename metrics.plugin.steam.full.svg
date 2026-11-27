@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 11 Aug 2026
+                                        Last played on 27 Nov 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        25 hours played
+                                        26 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 24 Nov 2026
+                                        Last played on 27 Nov 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,32 +135,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            18 / 57 achievements unlocked
+                                            20 / 57 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAIDBQf/xAAnEAACAgEEAAYCAwAAAAAAAAABAgMRBAASITEFExQiUWEjcUGBkf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQT/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECIUH/2gAMAwEAAhEDEQA/APDfDsbGbFiysyKJUQNQLBRNtB7BN3fHHfGpgYAQz4fhcIgOQFRpwX8w2CELE19Gh+zo8jJJDg4pm2RpGZHMhKqHNk8V8ACxrqpH6nZNk+gKsBKTbEBRVRKu2lFlQR3yfnVJU5NOdYKd1bzcjM8Mh8g5BDNApTYdxtFYGvmgR+jqvEMbGGLJl4cURR1W1DBhDYHQBu7456OlmFcdJJYFwzGPyON7BJEPcbKRVgg1XPA+NcuLbDHn4fnF43QsrRksrOpBB66IsX96NQZd6vC4HSA4WS3mJDLE0MrBd3PKmr+iprS8bIKoqyIFmlWO4GpBMqj2sSaABsGxz7eNEwsiEY6Y+RJGVYGiVBEVg9mru+eOtQjLGjjFyMeZWOyp0G6r4NMK/wAOrQ1m2j8icyxlVpXjDholqQQxNQZlIsGjfJ93u5vQ55FypvEM0iVo1XZGSNtE0q3RrgAn+tZyFZQvq8jHjC0gWFQSBfJAUVf2TrTNyITjvjY0kYVQLIUAS0B/NXd8896PpucyJH//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgUDBAYBCP/EACcQAAICAAUDBAMBAAAAAAAAAAECAxEABBIhMQUTQSIjUYFhYvDR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EAB4RAAICAgMBAQAAAAAAAAAAAAECABEDIRIxQSJx/9oADAMBAAIRAxEAPwDz9lcvFLl3kldU0ggbgWQCfJ+tucSRyxJ23y+UipWB94ay9b0TwLrgDAHS8WWy6lgoAd/Fux355oUMNOu9HPS1WWWcSdyUoNOxKAXZ/Y8YmWF0fZqXG5Qsg0tWf2L5JYn7r5jKRaWYn2RoKWeFPBq+CMR5rLwxZaOSJw2oAGyCQSL8H634w/k6LAvSDm4pdMihnSVuGHOkg73vWw8Yz8RC5eeB9VOncWxdOOOOLBI+8BWB2sOXC+OlyjsWILEJFBOl7rpPmnU/5Rxe6r1KfPhI8xFAhUl2ES1ZO1k/OKEE0ccLI6q1i+Aa2rz/AAwQ0CMCGVW+A/pIv5HB+jhqF7k+bcSEOj2JoOj9QhjysPfzUSTxqQBKz7kNtf4rwNqwgpSuYlYgqgKKVsAsTtX4qzjnoMZE0yr8hPUTXwPH2cDPNHJAqIoWhe4As1Xj+OFCUTXspkzl0Aevnqf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Flock of All</div>
-                                                <div class="unlocked">24 Nov 2026</div>
+                                                <div>Keeper of Secrets</div>
+                                                <div class="unlocked">26 Nov 2026</div>
                                             </div>
-                                            <div class="description">Gain 20 Followers.</div>
+                                            <div class="description">Take confession.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAUGAQj/xAAoEAACAgEDBAEDBQAAAAAAAAABAgMRBAASMQUTIUEicYHwFCNRscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAEQQxAyFB8P/aAAwDAQACEQMRAD8A8/YuPFLjySSyKm0EDyBZAJ9n7eOdJwVWaaAYeJBXdCA5B3FiBupjwAa9DRZSDjQQJdKncYVVuf7oADV/p7vg5A/UY8qyRqifvIpCLuBYG/HkVR9AayckCduOiswHg2ZLzlWGecZmJj13ihOOdpUkbqU8EC/Y0XKx4YsaOSJ1bcADZBIJF+j9vPGr/UnfNyj2MeVpJFdR2UUb13fECrHj5WfFjWfhIXHngfdTpvUVdOvHHHixohJFxkcYViPDozj7RBDKt0y9tqN/IfXixR1f6VkTZsEuFn08O0bm3DeONoskegdZ+CaOOFkdVaxfANeK9/g0rp+WcGTuYjwuSNpWYUaJv6fcHR1sVJjcgRw19HY+3K/VsibCgiwsCo4tu1X3qXNXYsH+GrWfj2mGaVg1ImxbNfI8cc0LOk5+Wc6TuZbwxlRtCwizV3x/pOizzRyQKiKFoX5AFmq9fh0RaFS5PIHctfQ0J//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwUGAQII/8QAKhAAAgIBAwMCBQUAAAAAAAAAAQIDEQQAEiETMUFxgQUUIlHwFSQyQmH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EACMRAAEEAAUFAQAAAAAAAAAAAAEAAgMREiFBYYETMVGR4fD/2gAMAwEAAhEDEQA/AOfsXHilx3kldU2ggcgWQCfJ9uO+iwyRAwnFxIz9Yrqjezm+xN0L+wHvoMpU40EC7qVeowAol2/zzQAGnXwbHE+ZFKOkPlIeo7ICN1Di+L3A+exrVbjQsrXDHjcGM75fuEsnePfP81hxKeo24RDY0Zv+IPY19iNCyseKLGjkjcNuABsgkEi/B9ue2nHxmDo5pyH6X7uDerSgkKSKbxyxPnsL0lhpceeB91OnUUEWQ47enFjSabFhE0eBxY/f57WVkbHXGy8d3RwNu5TZVx69uCDqgGXKfhZyWklVmBhK7Qeq5HPNXQ9dTkE0ccLI6q1i+wNcV5/BosUzQx1iZbrfguUIv7jsfUHQ5tqUE/TujkdN/KfJK/6e0uUsskYCwPEVH0MBXrzQ86nlKvHPOwalUotnncTxz5oWfbW8kzSx1l5bsB/XeXPsOw9SdCnmjkgVEULQvkAWarx+HQ1tJTzB9E6Dm1//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Devotion</div>
-                                                <div class="unlocked">23 Nov 2026</div>
+                                                <div>Hear No Evil</div>
+                                                <div class="unlocked">26 Nov 2026</div>
                                             </div>
-                                            <div class="description">Fully Upgrade Cult.</div>
+                                            <div class="description">Defeat Kallamar.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+18 others...</div>
                                         </div>
                                     </div>
                                 </div>
